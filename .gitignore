@@ -9,3 +9,5 @@ Manifest.toml
 *.dot
 docs/build
 .vscode
+benchmark_results
+results_*.json
